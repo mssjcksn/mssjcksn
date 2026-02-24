@@ -1,5 +1,5 @@
 <div>
-  <img src="https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Iridescence_in_Papers_Hu_Tao.png/revision/latest?cb=20230129160508" width="30%" align="right"/>
+  <img src="https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Iridescence_in_Papers_Hu_Tao.png/revision/latest?cb=20230129160508" width="35%" align="right"/>
   <pre>
     👋 Hi, I'm Dawn
     💼 IT graduate • Associate Software Developer
