@@ -2,7 +2,7 @@
   <img src="https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Send_Off_Event_Card.png/revision/latest?cb=20221205102611" width="35%" align="right"/>
   <pre>
     👋 Hi, I'm Dawn
-    💼 IT graduate • Associate Frontend Developer
+    💼 IT graduate • Associate Software Developer
     💻 Learning Angular
     💜 Games, Movies, Music, LinkedIn Games, Potatoes?
     🚫 Whoever is designing Genshin Impact's endgame content</pre>
